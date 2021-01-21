@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667867797840",
+    "project_id": "chatsapp-abd15",
+    "storage_bucket": "chatsapp-abd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667867797840:android:24a88b14d39265cac47455",
+        "android_client_info": {
+          "package_name": "com.techzgamecoding.chatting_era"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667867797840-1mpccehro43o49ur00f6fe0g2hn70h78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qK_QYykiaEOb06fruTLReyW40CHYQuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667867797840-1mpccehro43o49ur00f6fe0g2hn70h78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
